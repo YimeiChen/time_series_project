@@ -1,10 +1,6 @@
 # Time Series Project
 
-team members: Liz Chen, Beiming Liu, Bingyi Li
-
-
-
-Shannon McNish
+Team members: Liz Chen, Beiming Liu, Bingyi Li, Shannon McNish
 
 Goal: predict Canadian monthly bankruptcy rate
 
