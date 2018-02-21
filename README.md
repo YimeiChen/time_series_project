@@ -1,8 +1,8 @@
 # time_series_project
 
-#Goal: predict Canadian monthly bankruptcy rate
+## Goal: predict Canadian monthly bankruptcy rate
 
-#Method: time series models including Holt Winter, Box Jenkins
+## Method: time series models including Holt Winter, Box Jenkins
 
 # Report: 
 
