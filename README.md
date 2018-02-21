@@ -1,8 +1,15 @@
-# time_series_project
+# Time Series Project
 
-## Goal: predict Canadian monthly bankruptcy rate
+team members:
 
-## Method: time series models including Holt Winter, Box Jenkins
+Liz Chen
+Beiming Liu
+Bingyi Li
+Shannon McNish
+
+Goal: predict Canadian monthly bankruptcy rate
+
+Method: time series models including Holt Winter, Box Jenkins
 
 # Report: 
 
